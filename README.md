@@ -8,4 +8,4 @@ edit `settings_username.py` and replace with your tokens, both versions will be 
 
 bot will make ~ 10 mil rubles in 24h
 
-![cash $$$$$$](https://raw.github.com/Mila432/IEscape-from-Tarkov-Flea-Market-Bot/master/1.png)
+![cash $$$$$$](https://raw.github.com/Mila432/Escape-from-Tarkov-Flea-Market-Bot/master/1.png)
