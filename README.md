@@ -1,4 +1,4 @@
-# Flea Market bot writte in Python with Captcha solving
+# Flea Market bot written in Python with Captcha solving
 
 requirements:
 - refresh_token (get it during launcher login)
