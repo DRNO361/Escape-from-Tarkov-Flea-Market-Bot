@@ -14,3 +14,11 @@ edit `settings_username.py` and replace with your tokens, both versions will be 
 bot will make ~ 10 mil rubles in 24h
 
 ![cash $$$$$$](https://raw.github.com/Mila432/Escape-from-Tarkov-Flea-Market-Bot/master/1.png)
+
+bot will check market for item that can be sold to vendor for more cash
+
+![cash $$$$$$](https://raw.github.com/Mila432/Escape-from-Tarkov-Flea-Market-Bot/master/profit.png)
+
+if a captcha appears , it will be solved
+
+![cash $$$$$$](https://raw.github.com/Mila432/Escape-from-Tarkov-Flea-Market-Bot/master/captcha.png)
