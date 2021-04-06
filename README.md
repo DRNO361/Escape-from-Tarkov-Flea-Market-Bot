@@ -1,8 +1,13 @@
-# 
+# Flea Market bot writte in Python with Captcha solving
 
 requirements:
 - refresh_token (get it during launcher login)
 - hwCode (also during launcher login)
+
+bot features:
+- automatic update for both game version and launcher version
+- automatic captcha solving
+- low ban risk, imitating behavior of the original client (can still get you banned?!, my test accounts are running for a week now and now ban!) 
 
 edit `settings_username.py` and replace with your tokens, both versions will be updated automatically
 
