@@ -7,7 +7,7 @@ requirements:
 bot features:
 - automatic update for both game version and launcher version
 - automatic captcha solving
-- low ban risk, imitating behavior of the original client (can still get you banned?!, my test accounts are running for a week now and now ban!) 
+- low ban risk, imitating behavior of the original client (can still get you banned?!, my test accounts are running for a week and no ban until now!) 
 
 edit `settings_username.py` and replace with your tokens, both versions will be updated automatically
 
